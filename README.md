@@ -4,6 +4,7 @@
 Este é um projeto de calculadora simples em Java, onde o usuário pode realizar operações básicas de soma entre dois números. Ele utiliza entrada via Scanner, orientação a objetos e um loop para múltiplas operações.
 
 🚀 Tecnologias Utilizadas
+
 -Java ☕
 
 -Orientação a Objetos 🧩
@@ -11,10 +12,12 @@ Este é um projeto de calculadora simples em Java, onde o usuário pode realizar
 -Scanner (entrada de dados) ⌨️
 
 📂 Estrutura do Projeto 
+
 📦 CalculadoraJava
  ┣ 📜 calculadora.java
  ┣ 📜 num.java
  ┗ 📜 README.md
+
 -calculadora.java: Classe principal que executa a lógica da calculadora
 -num.java: Classe auxiliar para manipulação de números
 
