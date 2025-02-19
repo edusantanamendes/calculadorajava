@@ -5,7 +5,9 @@ Este é um projeto de calculadora simples em Java, onde o usuário pode realizar
 
 🚀 Tecnologias Utilizadas
 -Java ☕
+
 -Orientação a Objetos 🧩
+
 -Scanner (entrada de dados) ⌨️
 
 📂 Estrutura do Projeto 
