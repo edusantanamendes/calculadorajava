@@ -20,7 +20,9 @@ Este é um projeto de calculadora simples em Java, onde o usuário pode realizar
  ┣ 📜 num.java
  ┗ 📜 README.md
 
+
 -calculadora.java: Classe principal que executa a lógica da calculadora
+
 -num.java: Classe auxiliar para manipulação de números
 
 ⚙️ Como Executar
