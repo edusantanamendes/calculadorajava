@@ -1,6 +1,7 @@
-🧮 Calculadora Simples em Java
+**🧮 Calculadora Simples em Java**
 
 📌 Sobre o Projeto
+
 Este é um projeto de calculadora simples em Java, onde o usuário pode realizar operações básicas de soma entre dois números. Ele utiliza entrada via Scanner, orientação a objetos e um loop para múltiplas operações.
 
 🚀 Tecnologias Utilizadas
@@ -14,6 +15,7 @@ Este é um projeto de calculadora simples em Java, onde o usuário pode realizar
 📂 Estrutura do Projeto 
 
 📦 CalculadoraJava
+
  ┣ 📜 calculadora.java
  ┣ 📜 num.java
  ┗ 📜 README.md
@@ -22,6 +24,7 @@ Este é um projeto de calculadora simples em Java, onde o usuário pode realizar
 -num.java: Classe auxiliar para manipulação de números
 
 ⚙️ Como Executar
+
 1. Clone este repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
@@ -32,8 +35,12 @@ javac calculadora.java num.java
 java calculadora
 
 🛠 Melhorias Futuras
+
 ✅ Adicionar mais operações (subtração, multiplicação, divisão)
+
 ✅ Melhorar o tratamento de erros
+
 ✅ Criar uma interface gráfica
+
 
 📌 Sinta-se à vontade para contribuir! 😊
